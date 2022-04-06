@@ -1,0 +1,5 @@
+@import'~bootstrap';
+@import'~bootstrap-icons';
+@import 'style.css';
+@import'~dropzone/dist/basic';
+@import'~dropzone/dist/dropzone';
